@@ -1,4 +1,5 @@
 # MLOpsSalaryPredictor
+![Neon Green and White Professional LinkedIn (5)](https://user-images.githubusercontent.com/56602504/89702514-b5985000-d95f-11ea-94a6-d182b4f6ae2c.png)
 
 I’ve created a basic project that works on the concept of Applying Machine Learning on DevOps.
 We as a developers face problems while installing some softwares but it fails and shoots an error : dependency is not satisfiable. Even to run some application successful we have to downgrade or upgrade some dependencies and we have to keep on changing our environment.
