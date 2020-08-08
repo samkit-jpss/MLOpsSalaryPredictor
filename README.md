@@ -1,6 +1,44 @@
 # MLOpsSalaryPredictor
 ![Neon Green and White Professional LinkedIn (5)](https://user-images.githubusercontent.com/56602504/89702514-b5985000-d95f-11ea-94a6-d182b4f6ae2c.png)
 
+1.Project Title: Employees Salary Predictor.
+
+2. Gist About the Project:
+As in the companies when employees get hired, HR is the
+one who decides the salary based on multiple criteria one could be : number of years of
+experience he/she has. Deciding the salary of employees according to what he/she
+deserves could be an important task. As HR being a non-technical person might not be
+familiar with high-end technologies.
+I’ve created a project using technologies like Machine Learning and DevOps
+approach. I’ve provided a web-interface where an HR writes the number of years of
+experiences an employee has and using a Machine Learning regression algorithm it
+predicts the estimated salary. Also we can update the data and it automatically
+updates the current data to the latest data provided and predicts accordingly.
+
+3. Technologies Used: 
+I’ve used Machine Learning Linear Regression Algorithm
+as the data contains two columns namely : Years of Experience and Salary. Using the
+historical data we can predict the salary of an employee.
+Also I’ve created a Docker environment using the concept of conterization we can
+create a separate environment where we train our machine learning model. So that we
+don’t face any dependencies issue. I’ve also used Jenkins for CI/CD as it pulls the ML
+code and data from GitHub and does the further automatic process.
+
+4. Conclusion: 
+The whole process is when the developer pushes the ML model with
+dataset to GitHub , Jenkins being a CI/CD tool pulls the code automatically as soon
+as it senses the code has been uploaded to some Source Control Management
+System and perform the task i.e building Docker images and run our ML code in
+docker environment.
+Also with the help of a web-server it provides a URL from which we can access the
+webpage. For this complete pipeline admin will be up-to-date where the process is
+executing and what all process it has completed by sending admin an email
+automatically.
+
+5. Future Scope:
+Yes, it has a future scope as we can deploy it on a Mobile App which
+would be much easier to manage.
+
 I’ve created a basic project that works on the concept of Applying Machine Learning on DevOps.
 We as a developers face problems while installing some softwares but it fails and shoots an error : dependency is not satisfiable. Even to run some application successful we have to downgrade or upgrade some dependencies and we have to keep on changing our environment.
 But using the concept of conterization we can create a separate environment where we want to train our machine learning model. We use Docker , With Docker, it’s all just a matter of executing a couple of commands to spin up a container. Docker container can be shipped across platforms , it means the program that runs on Windows development web-server never fails to run on a Linux Production server.
