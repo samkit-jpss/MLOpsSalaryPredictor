@@ -92,3 +92,7 @@ Let's say user entered no of years of experience : 5 (x=5) . We get
 Here is a demo video!!
 
 https://youtu.be/HF_jFQw6x8g
+
+
+For future scope of this project , I've also integrated my machine learning model with the flutter app, You can find the link below.
+https://www.linkedin.com/posts/activity-6698557372614410240-XK_2
