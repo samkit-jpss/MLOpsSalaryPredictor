@@ -94,5 +94,9 @@ Here is a demo video!!
 https://youtu.be/HF_jFQw6x8g
 
 
-For future scope of this project , I've also integrated my machine learning model with the flutter app, You can find the link below.
-https://www.linkedin.com/posts/activity-6698557372614410240-XK_2
+For future scope of this project , I've also integrated my machine learning model with the flutter app.
+![image](https://user-images.githubusercontent.com/56602504/89939480-a8b47e80-dc35-11ea-8c64-6facd15821ef.png)
+![image](https://user-images.githubusercontent.com/56602504/89939565-bf5ad580-dc35-11ea-868c-2546244d6219.png)
+![image](https://user-images.githubusercontent.com/56602504/89939586-cc77c480-dc35-11ea-91c1-9a5a8755e22e.png)
+![image](https://user-images.githubusercontent.com/56602504/89939609-dd283a80-dc35-11ea-9987-6b0e00253f6b.png)
+
